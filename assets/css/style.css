@@ -86,6 +86,10 @@ td {
   width: 70%;
 }
 
+th {
+  width: 30%;
+}
+
 td,
 th {
   border: 1px solid black;
